@@ -9,29 +9,29 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpxNXV3M2w2azRibW82dDUyam01a3p2NjEwNHVueDM2cmc2ODdmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T64PSPOTXlbr7OTR7B/giphy.gif"  />
-</div>
+<img align="right" height="205" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpxNXV3M2w2azRibW82dDUyam01a3p2NjEwNHVueDM2cmc2ODdmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T64PSPOTXlbr7OTR7B/giphy.gif"  />
 
 ###
 
-<p align="left">⚒️ Lenguajes y tecnologías</p>
+<h3 align="left">⚒️ Lenguajes y Tecnologías</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rxaxn/rxaxn/output/pacman-contribution-graph-dark.svg">
